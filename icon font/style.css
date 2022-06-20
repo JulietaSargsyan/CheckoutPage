@@ -1,0 +1,102 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?ow0nzl');
+  src:  url('fonts/icomoon.eot?ow0nzl#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?ow0nzl') format('truetype'),
+    url('fonts/icomoon.woff?ow0nzl') format('woff'),
+    url('fonts/icomoon.svg?ow0nzl#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-phone1:before {
+  content: "\e913";
+  color: #23c2a8;
+}
+.icon-uniE900:before {
+  content: "\e900";
+  color: #fff;
+}
+.icon-copy:before {
+  content: "\e901";
+  color: #cbcbcb;
+}
+.icon-coupon4:before {
+  content: "\e902";
+  color: #fff;
+}
+.icon-Group158:before {
+  content: "\e903";
+  color: #fff;
+}
+.icon-Group765:before {
+  content: "\e904";
+}
+.icon-Vector1:before {
+  content: "\e905";
+  color: #bababa;
+}
+.icon-Vector3:before {
+  content: "\e906";
+  color: #d7d7d7;
+}
+.icon-Vector4:before {
+  content: "\e907";
+  color: #23c2a8;
+}
+.icon-Vector212:before {
+  content: "\e908";
+}
+.icon-Vector213:before {
+  content: "\e909";
+}
+.icon-copy-1:before {
+  content: "\e90a";
+  color: #cbcbcb;
+}
+.icon-edit-1:before {
+  content: "\e90b";
+  color: #cbcbcb;
+}
+.icon-Group-766:before {
+  content: "\e90c";
+  color: #fff;
+}
+.icon-home-run-1-1:before {
+  content: "\e90d";
+  color: #dcdcdc;
+}
+.icon-image-136:before {
+  content: "\e90e";
+}
+.icon-supermarket-1-1:before {
+  content: "\e90f";
+  color: #fff;
+}
+.icon-trash-1:before {
+  content: "\e910";
+  color: #cbcbcb;
+}
+.icon-Vector:before {
+  content: "\e911";
+  color: #cbcbcb;
+}
+.icon-phone:before {
+  content: "\e912";
+}
